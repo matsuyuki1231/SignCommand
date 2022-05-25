@@ -1,0 +1,6 @@
+name: signcommand
+main: matsuyuki\signcommand\main
+api: 4.0.0
+version: 1.0.0
+author: matsuyuki
+description: 看板からコマンドをじっこうしよう！！！
